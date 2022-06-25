@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jacoobyy aka Jacob Miller
-- 👀 I’m interested in ... Analytics
-- 🌱 I’m currently learning ... Data Science
+- 👀 I’m interested in ... Data
+- 🌱 I’m currently learning ... [SQL] for Data Science
 - 💞️ I’m looking to collaborate on ... Visulaizations & SQL Projects
 - 📫 How to reach me ... Use my Public email to collaborate
 

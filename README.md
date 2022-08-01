@@ -1,9 +1,9 @@
 <p align="center">
-👋 Hi, I’m @jacoobyy aka Jacob Miller
-👀 I’m interested in ... Data Engineering
-🌱 I’m currently learning ... [SQL] for Data Science
-💞️ I’m looking to collaborate on ... Open source projects & your growth
-📫 How to reach me ... Use my Public email to collaborate
+<ol>👋 Hi, I’m @jacoobyy aka Jacob Miller</ol>
+<ol>👀 I’m interested in ... Data Engineering</ol>
+<ol>🌱 I’m currently learning ... [SQL] for Data Science</ol>
+<ol>💞️ I’m looking to collaborate on ... Open source projects & your growth</ol>
+<ol>📫 How to reach me ... Use my Public email to collaborate</ol>
 </p>
 
 <!---
